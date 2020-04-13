@@ -32,8 +32,8 @@ yarn run test
 
 👤 **Sey**
 
-* Website: Seyyyy.com
-* Twitter: [@eurekano](https://twitter.com/eurekano)
+* Website: https://seyyyy.com
+- Twitter: [@seyyyysaid](https://twitter.com/seyyyysaid)
 * Github: [@Seyyyy](https://github.com/Seyyyy)
 
 ## Show your support
